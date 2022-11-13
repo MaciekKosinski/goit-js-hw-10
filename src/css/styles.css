@@ -18,3 +18,22 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+.country-list {
+  background-color: rgb(100, 100, 255);
+  list-style-type: none;
+}
+.country-name {
+display: inline;
+text-decoration-style:solid;
+font-size: 30px;
+}
+.country-text{
+  font-size: 20px;
+  margin-left: 15px;
+}
+.country-info{
+  background-color: chartreuse;
+}
+img{
+  margin-left: 15px;
+}
